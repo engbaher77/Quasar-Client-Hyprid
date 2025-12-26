@@ -27,7 +27,7 @@
     "vue-load-image": "^0.1.11",
     "vue-resize-directive": "^1.2.0",
     "vue-smooth-dnd": "^0.8.1",
-    "vue-socket.io": "^3.0.7",
+    "vue-socket.io": "^3.0.10",
     "vue-svg-inline-loader": "^2.1.2",
     "vue-videojs7": "^1.0.2",
     "vue-zoomer": "^0.3.6",
