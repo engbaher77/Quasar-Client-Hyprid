@@ -16,7 +16,7 @@
     "core-js": "^3.6.5",
     "html2canvas": "^1.0.0-rc.7",
     "jspdf": "^1.5.3",
-    "print-js": "^1.5.0",
+    "print-js": "^1.6.0",
     "quasar": "^1.0.0",
     "vue-apexcharts": "^1.6.0",
     "vue-cookies": "^1.7.4",
